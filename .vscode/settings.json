@@ -1,0 +1,7 @@
+{
+    "eslint.alwaysShowStatus": true,
+    "eslint.codeAction.disableRuleComment": {},
+    "eslint.run": "onSave",
+    "eslint.lintTask.enable": true,
+    "eslint.format.enable": true
+}
